@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aurora Pamela</h1>
 <h3 align="center">Frontend Developer and Graphic Designer from Argentina. <br/> I care a lot about the user experience and the quality of the things that I build.</h3>
 
-- 📫 How to reach me **aurorapamela.dg@gmail.com**
+<h4 align="center">📫 Reach me **aurorapamela.dg@gmail.com**</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
